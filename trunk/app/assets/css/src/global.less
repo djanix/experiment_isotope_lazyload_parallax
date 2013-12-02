@@ -1,0 +1,136 @@
+/* ==========================================================================
+   Base styles
+   ========================================================================== */
+* {
+	box-sizing: border-box;
+}
+
+html,
+button,
+input,
+select,
+textarea {
+	color: #fff;
+}
+
+html {
+	background-color: #000;
+	font-family: 'sid_lee_eb_extraboldextrabold', 'Arial Bold', Arial;
+	font-size: 1em;
+	line-height: 1.4;
+}
+
+::-moz-selection {
+	background: #b3d4fc;
+	text-shadow: none;
+}
+
+::selection {
+	background: #b3d4fc;
+	text-shadow: none;
+}
+
+hr {
+	display: block;
+	height: 1px;
+	border: 0;
+	border-top: 1px solid #ccc;
+	margin: 1em 0;
+	padding: 0;
+}
+
+audio,
+canvas,
+img,
+video {
+	vertical-align: middle;
+}
+
+fieldset {
+	border: 0;
+	margin: 0;
+	padding: 0;
+}
+
+textarea {
+	resize: vertical;
+}
+
+a {
+	color: #ccc;
+	text-decoration: none;
+	transition: color 0.5s ease;
+
+	&:hover, &:active, &:focus {
+		color: #fff;
+	}
+}
+
+h1, h2, h3, h4, h5, h6 {
+	text-align: center;
+}
+
+h1 {
+	line-height: normal;
+	margin: 0;
+}
+
+h2 {
+	font-size: 70px;
+	margin: 10px 0;
+	padding-top: 30px;
+	text-align: center;
+}
+
+h3 {
+	color: #999;
+	font-family: georgia, garamond, serif;
+	font-size: 16px;
+	margin-bottom: 50px;
+}
+
+/* ==========================================================================
+   Sprite
+   ========================================================================== */
+.sprite {
+	background: url(../../img/sprite.png) 0 0 no-repeat;
+	height: 32px;
+	overflow: hidden;
+	text-indent: -9999px;
+	vertical-align: middle;
+	width: 32px;
+
+	display: inline-block;
+	*display: inline;
+	zoom: 1;
+
+	&.icon-facebook { background-position: 0 0; }
+	&.icon-googlePlus { background-position: -32px 0; }
+	&.icon-twitter { background-position: -64px 0; }
+	&.icon-mail { background-position: -96px 0; }
+	&.icon-search { background-position: -128px 0; }
+	&.icon-arrow-right { background-position: -160px 0; }
+	&.icon-arrow-top { background-position: -192px 0; }
+	&.icon-arrow-down { background-position: -224px 0; }
+}
+
+/* ==========================================================================
+   Custom styles
+   ========================================================================== */
+#site {
+	background: #000 url(../../img/bg_footer.jpg) center bottom no-repeat;
+	margin-bottom: 44px;
+
+	.content {
+		margin: 0 auto;
+		max-width: 1020px;
+	}
+
+	.mainContent {
+		margin: 0 auto;
+		max-width: 1020px;
+		margin-top: 185px;
+		padding-bottom: 150px;
+	}
+}
+

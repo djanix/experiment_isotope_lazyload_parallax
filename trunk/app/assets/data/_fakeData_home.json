@@ -1,0 +1,164 @@
+[
+	{
+		"title": "",
+		"image": "_fakeItem_home_01.jpg",
+		"imageHover": "",
+		"width": "4",
+		"height": "2",
+		"link": "",
+		"type": "cover"
+	},
+	{
+		"title": "",
+		"image": "_fakeItem_home_02.jpg",
+		"imageHover": "",
+		"width": "1",
+		"height": "2",
+		"link": "",
+		"type": ""
+	},
+	{
+		"title": "",
+		"image": "_fakeItem_home_03.jpg",
+		"imageHover": "",
+		"width": "1",
+		"height": "1",
+		"link": "",
+		"type": "work"
+	},
+	{
+		"title": "",
+		"image": "_fakeItem_home_04.jpg",
+		"imageHover": "",
+		"width": "1",
+		"height": "2",
+		"link": "",
+		"type": "news"
+	},
+	{
+		"title": "",
+		"image": "",
+		"imageHover": "",
+		"width": "1",
+		"height": "1",
+		"link": "",
+		"type": "hidden"
+	},
+	{
+		"title": "",
+		"image": "_fakeItem_home_05.jpg",
+		"imageHover": "",
+		"width": "1",
+		"height": "2",
+		"link": "",
+		"type": "news"
+	},
+	{
+		"title": "",
+		"image": "_fakeItem_home_06.jpg",
+		"imageHover": "_fakeItem_home_06_hover.jpg",
+		"width": "1",
+		"height": "1",
+		"link": "dewars.html",
+		"type": "work"
+	},
+	{
+		"title": "",
+		"image": "_fakeItem_home_07.jpg",
+		"imageHover": "",
+		"width": "1",
+		"height": "1",
+		"link": "",
+		"type": "quote"
+	},
+	{
+		"title": "",
+		"image": "_fakeItem_home_08.jpg",
+		"imageHover": "",
+		"width": "2",
+		"height": "1",
+		"link": "",
+		"type": "work"
+	},
+	{
+		"title": "",
+		"image": "_fakeItem_home_09.jpg",
+		"imageHover": "",
+		"width": "1",
+		"height": "1",
+		"link": "",
+		"type": "work"
+	},
+	{
+		"title": "",
+		"image": "_fakeItem_home_10.jpg",
+		"imageHover": "",
+		"width": "1",
+		"height": "1",
+		"link": "",
+		"type": "work"
+	},
+	{
+		"title": "",
+		"image": "_fakeItem_home_11.jpg",
+		"imageHover": "",
+		"width": "2",
+		"height": "1",
+		"link": "",
+		"type": "quote"
+	},
+	{
+		"title": "",
+		"image": "_fakeItem_home_12.jpg",
+		"imageHover": "",
+		"width": "1",
+		"height": "2",
+		"link": "",
+		"type": "news"
+	},
+	{
+		"title": "",
+		"image": "_fakeItem_home_13.jpg",
+		"imageHover": "",
+		"width": "1",
+		"height": "1",
+		"link": "",
+		"type": "work"
+	},
+	{
+		"title": "",
+		"image": "_fakeItem_home_14.jpg",
+		"imageHover": "",
+		"width": "2",
+		"height": "2",
+		"link": "",
+		"type": ""
+	},
+	{
+		"title": "",
+		"image": "_fakeItem_home_15.jpg",
+		"imageHover": "",
+		"width": "1",
+		"height": "2",
+		"link": "",
+		"type": "news"
+	},
+	{
+		"title": "",
+		"image": "",
+		"imageHover": "",
+		"width": "1",
+		"height": "1",
+		"link": "",
+		"type": "hidden"
+	},
+	{
+		"title": "",
+		"image": "_fakeItem_home_16.jpg",
+		"imageHover": "",
+		"width": "1",
+		"height": "1",
+		"link": "",
+		"type": "work"
+	}
+]

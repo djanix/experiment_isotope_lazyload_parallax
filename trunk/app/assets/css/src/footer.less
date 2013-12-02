@@ -1,0 +1,82 @@
+#site {
+	footer {
+		background-color: #000;
+		bottom: 0;
+		font-family: georgia, garamond, serif;
+		font-size: 13px;
+		padding: 5px 0;
+		position: fixed;
+		width: 100%;
+		z-index: 100;
+
+		.more {
+			bottom: 44px;
+			position: absolute;
+			margin-top: 55px;
+			text-align: center;
+			width: 100%;
+
+			.character {
+				display: inline-block;
+				position: relative;
+
+				> img {
+					cursor: pointer;
+					padding: 8px 8px 0 8px;
+					text-align: center;
+					text-decoration: none;
+				}
+
+				.bubble {
+					bottom: 25px;
+					color: #fff;
+					display: none;
+					left: -150px;
+					position: absolute;
+
+					a {
+						color: #000;
+					}
+				}
+			}
+		}
+
+		a {
+			line-height: 32px;
+
+			display: inline-block;
+			*display: inline;
+			zoom: 1;
+		}
+
+		ul {
+			margin: 0;
+			padding: 0;
+
+			li {
+				display: inline;
+			}
+		}
+
+		.left {
+			float: left;
+
+			a {
+				padding: 0 10px;
+			}
+		}
+
+		.right {
+			float: right;
+			font-style: italic;
+		}
+
+		.footerBg {
+			height: 329px;
+			left: 0;
+			position: absolute;
+			top: -329px;
+			width: 100%;
+		}
+	}
+}
